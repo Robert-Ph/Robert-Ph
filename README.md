@@ -2,7 +2,7 @@
 
 <p align="center">
 	<a href="https://github.com/Robert-Ph">
-	<img src="https://avatars.githubusercontent.com/u/79617804" width = "200" alt="TNT">
+	<img src="" width = "200" alt="">
 	</a>
 </p>
 
