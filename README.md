@@ -11,19 +11,27 @@
 ```C#
 namespace TNT
 {
-    class TruongThinh
+   class TruongThinh
+{
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            string Name = "Phan Trường Thịnh";
-            string Age = "2002";
-            string Gender = "Male";
-            string Address = "Bến Tre, Việt Nam";
-            string University = "Trường Đại học Nông Lâm thành phố HCM-NLU";
-            string Skills = "C, C++, C#, Java, Python, HTML, JavaScript, PHP";
-            string FamousQuotes = "Chỉ có sự thành công mới định nghĩa mày là ai!";
-        }
+        string Name = "Phan Truong Thinh";
+        string Role = "Software Developer | System Engineer | DevOps Enthusiast";
+        string Location = "Ben Tre, Vietnam";
+        string Education = "Nong Lam University - Ho Chi Minh City (NLU)";
+
+        string Programming = "C, C++, C#, Java, Python, JavaScript, PHP";
+        string Frontend = "ReactJS (Vite), HTML, CSS";
+        string Backend = "Spring Boot, NodeJS";
+        string DevOps = "Docker, Jenkins, CI/CD, Linux, Nginx";
+        string Database = "MySQL";
+        string Networking = "Computer Networks, Network Configuration, Network Security";
+        string AI = "Artificial Intelligence & Machine Learning Fundamentals";
+
+        string Quote = "Success is the only thing that defines who you are.";
     }
+}
+
 }
 ```
 
