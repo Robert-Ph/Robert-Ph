@@ -71,7 +71,14 @@ namespace TNT
 
 <table align="center">
   <tbody>
+	  
     <tr valign="top">
+	<td align="center">
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+<span>C</span><br><br>
+<img height="64" src="https://www.vectorlogo.zone/logos/cprogramming/cprogramming-icon.svg">
+</a>
+</td>
       <td width="20%" align="center">
 	<a href="https://devdocs.io/cpp/">
 		<span>𝗖++</span><br><br><br>
@@ -90,12 +97,6 @@ namespace TNT
 		<img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
 	 </a>
       </td>
-	<td width="20%" align="center">
-		<a href="https://dart.dev/guides">
-        <span>𝗗𝗮𝗿𝘁</span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg">
-		</a>
-      </td>
       <td width="20%" align="center">
 	      <a href="https://docs.python.org/3/">
         <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
@@ -103,6 +104,59 @@ namespace TNT
 	      </a>
       </td>
     </tr>
+
+	<tr valign="top">
+		<td align="center" width="14%">
+<a href="https://www.python.org">
+<span>Python</span><br><br>
+<img height="64" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
+</a>
+</td>
+
+<td align="center">
+<a href="https://www.tensorflow.org">
+<span>TensorFlow</span><br><br>
+<img height="64" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg">
+</a>
+</td>
+
+<td align="center">
+<a href="https://pytorch.org">
+<span>PyTorch</span><br><br>
+<img height="64" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg">
+</a>
+</td>
+
+<td align="center">
+<a href="https://scikit-learn.org">
+<span>Scikit Learn</span><br><br>
+<img height="64" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
+</a>
+</td>
+
+<td align="center">
+<a href="https://pandas.pydata.org">
+<span>Pandas</span><br><br>
+<img height="64" src="https://www.vectorlogo.zone/logos/pandas/pandas-icon.svg">
+</a>
+</td>
+
+<td align="center">
+<a href="https://numpy.org">
+<span>Numpy</span><br><br>
+<img height="64" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg">
+</a>
+</td>
+
+<td align="center">
+<a href="https://opencv.org">
+<span>OpenCV</span><br><br>
+<img height="64" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg">
+</a>
+</td>
+    </tr>
+
+	
     <tr valign="top">
 	<td width="20%" align="center">
 		<a href="https://code.visualstudio.com/docs">
@@ -135,6 +189,8 @@ namespace TNT
 	      </a>
       </td>
     </tr>
+
+	
   </tbody>
 </table>
 
